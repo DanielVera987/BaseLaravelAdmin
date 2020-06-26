@@ -1,21 +1,31 @@
-# Laravel 7 with AdminLTE 3
+# Larave 7 con AdminLTE 3
 
-## How to use
+_Este este proyecto es una base en Laravel 7 para utilizar la plantilla AdminLTE3 y poder utilizarlo en cualquier proyecto que tengamos en mente_
 
-- Clone the repository with __git clone__
-- Copy __.env.example__ file to __.env__
-- Edit database credentials in __.env__
-- Run __composer install__
-- Run __php artisan key:generate__
-- Run __php artisan migrate__
-- Run __php artisan serve__ (if you want to use other port add __--port=90__)
-- You can __register__ by clicking on top-right
+### Instalación 🚀
 
-## License
+_Para poder hacer uso de este proyecto, sigue los siguientes pasos_
 
-Feel free to use and re-use any way you want.
+_Cabe destacar que tenemos por entendido que ya tengas instalado todo lo que se necesite para Laravel y uso de Git en tu Ordenador Local_
 
-## More
+- Clonamos el repositorio con __git clone__
+- Copiamos el archivo __.env.example__ y le ponemos de nombre  __.env__
+- Editamos las credenciales de nuestra Base de Datos en __.env__
+- Ejecutamos __composer install__
+- Ejecutamos __php artisan key:generate__
+- Ejecutamos __php artisan migrate__
+- Ejecutamos __php artisan serve__
+- Copiamos en nuestro navegador __http://127.0.0.1:8000__
+- Tu puedes __register__ haciendo clic en la esquina superior derecha
 
-- Check my YouTube channel [Dot Coding](https://www.youtube.com/channel/UCYobBTcVkUvIqQW3sSTGarg).
-- Feel free to send me an e-mail for support [dot.bol.lp@gmail.com](mailto:dot.bol.lp@gmail.com).
+## Licencia 📄
+
+Siéntase libre de usar y reutilizar de la forma que desee.
+
+## Expresiones de Gratitud 🎁
+
+* Comenta a otros sobre este proyecto 📢
+* Da las gracias públicamente 🤓.
+
+---
+⌨️ con ❤️ por [DanielVera](https://github.com/DanielVera987) 😊
